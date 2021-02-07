@@ -1,17 +1,21 @@
 # Code-Refractor
+By Jennifer Detmering
 
 # Project Description
-Improved website's code using HTML Semantics. Improved searh engine optimization and improved accessibilty. 
+Improved website's code using HTML Semantics. Improved search engine optimization and improved accessibilty. 
 
-# Instsllation
-This project can be viewed at the link below
+# Technologies Used
+HTML, CSS
 
+# Installation
 # link to project
-site link
 
-# picture of site
+<a href="https://kodiakshuksan.github.io/Code-Refractor/">Code-Refractor Homework<a>
 
-Image Link
+# Picture of site
+<img src="assets/website.png" alt="picture of deployed website where it shows general website with a photo of people working in an office">
 
-# contributors 
-W3schools
+
+# Contributors 
+<a href="https://www.w3schools.com/">W3 Schools Website<a>
+<a href="https://developer.mozilla.org/en-US/">Mozilla Developer Network Website<a>
