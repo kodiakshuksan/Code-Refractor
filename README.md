@@ -7,8 +7,7 @@ Improved website's code using HTML Semantics. Improved search engine optimizatio
 # Technologies Used
 HTML, CSS
 
-# Installation
-# link to project
+# Installation-Link to Project
 
 <a href="https://kodiakshuksan.github.io/Code-Refractor/">Code-Refractor Homework<a>
 
@@ -19,3 +18,6 @@ HTML, CSS
 # Contributors 
 <a href="https://www.w3schools.com/">W3 Schools Website<a><br><br>
 <a href="https://developer.mozilla.org/en-US/">Mozilla Developer Network Website<a>
+
+# License
+<a href="LICENSE.txt">License Document<a>
