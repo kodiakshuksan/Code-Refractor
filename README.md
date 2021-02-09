@@ -11,7 +11,7 @@ HTML, CSS
 
 <a href="https://kodiakshuksan.github.io/Code-Refractor/">Code-Refractor Homework<a>
 
-# Picture of site
+# Picture of Site
 <img src="assets/website.PNG" alt="picture of deployed website where it shows general website with a photo of people working in an office">
 
 
